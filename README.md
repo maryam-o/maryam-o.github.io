@@ -5,7 +5,7 @@ Hosted with ❤ by **GitHub**
 
 A portfolio website that can be used to show your projects and other information.
 
-# Personal Portfolio ⚡️ 
+# Website live here ⚡️ 
 > https://maryam-o.github.io
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://zahidali.me)
